@@ -28,8 +28,7 @@ def monopoly_with_third_tier
       :three_piece_owned => 100,
       :four_piece_owned =>200
     }
- }
-}
+ }}
 	hash
 end
 
